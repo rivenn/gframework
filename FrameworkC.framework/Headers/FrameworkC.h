@@ -8,11 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for FrameworkC.
-FOUNDATION_EXPORT double FrameworkCVersionNumber = 1.0.0;
+FOUNDATION_EXPORT double FrameworkCVersionNumber = 1.0;
 
-//! Project version string for FrameworkC.
-FOUNDATION_EXPORT const unsigned char FrameworkCVersionString[] = @"1.0.0";
+FOUNDATION_EXPORT const unsigned char FrameworkCVersionString[] = "1.0.0";
 
 // In this header, you should import all the public headers of your framework using statements like #import <FrameworkC/PublicHeader.h>
 
