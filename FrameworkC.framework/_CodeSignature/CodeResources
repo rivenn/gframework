@@ -8,9 +8,17 @@
 		<data>
 		Nzj2Ix6UBdqy2/pTuWVESXChrCA=
 		</data>
+		<key>Headers/GFWC.h</key>
+		<data>
+		VqejYl2n2wwjav83TBSlxkNhW7o=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		oLM3/Gi3Xb9SSensh30qI/NjJxg=
+		</data>
+		<key>PrivateHeaders/GFWB.h</key>
+		<data>
+		7kBOC8XH0pwOvjLbtSG/ngMbBXg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,9 +27,17 @@
 		<data>
 		Nzj2Ix6UBdqy2/pTuWVESXChrCA=
 		</data>
+		<key>Headers/GFWC.h</key>
+		<data>
+		VqejYl2n2wwjav83TBSlxkNhW7o=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		oLM3/Gi3Xb9SSensh30qI/NjJxg=
+		</data>
+		<key>PrivateHeaders/GFWB.h</key>
+		<data>
+		7kBOC8XH0pwOvjLbtSG/ngMbBXg=
 		</data>
 	</dict>
 	<key>rules</key>
