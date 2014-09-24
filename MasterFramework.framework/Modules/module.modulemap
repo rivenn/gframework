@@ -1,0 +1,6 @@
+framework module MasterFramework {
+  umbrella header "MasterFramework.h"
+
+  export *
+  module * { export * }
+}
